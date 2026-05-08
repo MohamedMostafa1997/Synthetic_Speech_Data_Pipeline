@@ -72,7 +72,7 @@ SSDP/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-└── .env.example
+└── .env (should you add it) 
 ```
 
 ---
