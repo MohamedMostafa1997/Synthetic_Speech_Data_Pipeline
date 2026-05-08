@@ -1,0 +1,14 @@
+num_prompts: 50
+
+output_dirs:
+  prompts: "data/prompts"
+  audio: "data/audio"
+  reviewed: "data/reviewed"
+  exports: "data/exports"
+
+validation:
+  wer_threshold: 0.7
+
+voice:
+  voice_id: "EXAVITQu4vr4xnSDxMaL"
+  model: "eleven_multilingual_v2"

@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "category": "daily",
+    "text": "الجو حر جدا"
+  },
+  {
+    "id": 2,
+    "category": "daily",
+    "text": "الجو حر جدا"
+  },
+  {
+    "id": 3,
+    "category": "transport",
+    "text": "عايز اروح المعادي"
+  },
+  {
+    "id": 4,
+    "category": "food",
+    "text": "نفسي اكل كشري"
+  },
+  {
+    "id": 5,
+    "category": "shopping",
+    "text": "فيه خصومات النهاردة"
+  },
+  {
+    "id": 6,
+    "category": "medical",
+    "text": "الدكتور موجود النهاردة"
+  },
+  {
+    "id": 7,
+    "category": "medical",
+    "text": "عايز احجز عند دكتور"
+  },
+  {
+    "id": 8,
+    "category": "shopping",
+    "text": "بكام التيشيرت ده"
+  },
+  {
+    "id": 9,
+    "category": "transport",
+    "text": "المواصلات متأخرة"
+  },
+  {
+    "id": 10,
+    "category": "medical",
+    "text": "عايز احجز عند دكتور"
+  },
+  {
+    "id": 11,
+    "category": "food",
+    "text": "انا جعان"
+  },
+  {
+    "id": 12,
+    "category": "food",
+    "text": "ممكن اطلب عصير"
+  },
+  {
+    "id": 13,
+    "category": "medical",
+    "text": "عايز احجز عند دكتور"
+  },
+  {
+    "id": 14,
+    "category": "daily",
+    "text": "انا تعبان شوية"
+  },
+  {
+    "id": 15,
+    "category": "transport",
+    "text": "المترو زحمة النهاردة"
+  },
+  {
+    "id": 16,
+    "category": "shopping",
+    "text": "المحل ده غالي"
+  },
+  {
+    "id": 17,
+    "category": "daily",
+    "text": "لسه صاحي من النوم"
+  },
+  {
+    "id": 18,
+    "category": "food",
+    "text": "نفسي اكل كشري"
+  },
+  {
+    "id": 19,
+    "category": "shopping",
+    "text": "المحل ده غالي"
+  },
+  {
+    "id": 20,
+    "category": "food",
+    "text": "عايز اطلب بيتزا"
+  },
+  {
+    "id": 21,
+    "category": "shopping",
+    "text": "المحل ده غالي"
+  },
+  {
+    "id": 22,
+    "category": "daily",
+    "text": "انا تعبان شوية"
+  },
+  {
+    "id": 23,
+    "category": "medical",
+    "text": "عايز احجز عند دكتور"
+  },
+  {
+    "id": 24,
+    "category": "daily",
+    "text": "لسه صاحي من النوم"
+  },
+  {
+    "id": 25,
+    "category": "transport",
+    "text": "المواصلات متأخرة"
+  },
+  {
+    "id": 26,
+    "category": "transport",
+    "text": "عايز اروح المعادي"
+  },
+  {
+    "id": 27,
+    "category": "transport",
+    "text": "المواصلات متأخرة"
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "text": "هاتلي ساندوتش شاورما"
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "text": "عايز اطلب بيتزا"
+  },
+  {
+    "id": 30,
+    "category": "daily",
+    "text": "هتروح الشغل امتى"
+  },
+  {
+    "id": 31,
+    "category": "food",
+    "text": "انا جعان"
+  },
+  {
+    "id": 32,
+    "category": "daily",
+    "text": "هتروح الشغل امتى"
+  },
+  {
+    "id": 33,
+    "category": "transport",
+    "text": "التاكسي غالي شوية"
+  },
+  {
+    "id": 34,
+    "category": "shopping",
+    "text": "المحل ده غالي"
+  },
+  {
+    "id": 35,
+    "category": "daily",
+    "text": "هتروح الشغل امتى"
+  },
+  {
+    "id": 36,
+    "category": "transport",
+    "text": "فين اقرب محطة"
+  },
+  {
+    "id": 37,
+    "category": "transport",
+    "text": "فين اقرب محطة"
+  },
+  {
+    "id": 38,
+    "category": "transport",
+    "text": "المواصلات متأخرة"
+  },
+  {
+    "id": 39,
+    "category": "shopping",
+    "text": "المحل ده غالي"
+  },
+  {
+    "id": 40,
+    "category": "food",
+    "text": "ممكن اطلب عصير"
+  },
+  {
+    "id": 41,
+    "category": "food",
+    "text": "انا جعان"
+  },
+  {
+    "id": 42,
+    "category": "daily",
+    "text": "عامل ايه النهاردة"
+  },
+  {
+    "id": 43,
+    "category": "food",
+    "text": "عايز اطلب بيتزا"
+  },
+  {
+    "id": 44,
+    "category": "medical",
+    "text": "الدكتور موجود النهاردة"
+  },
+  {
+    "id": 45,
+    "category": "medical",
+    "text": "الدكتور موجود النهاردة"
+  },
+  {
+    "id": 46,
+    "category": "food",
+    "text": "هاتلي ساندوتش شاورما"
+  },
+  {
+    "id": 47,
+    "category": "medical",
+    "text": "عندي صداع جامد"
+  },
+  {
+    "id": 48,
+    "category": "shopping",
+    "text": "عايز اشتري جزمة"
+  },
+  {
+    "id": 49,
+    "category": "medical",
+    "text": "بطني وجعاني"
+  },
+  {
+    "id": 50,
+    "category": "food",
+    "text": "عايز اطلب بيتزا"
+  }
+]

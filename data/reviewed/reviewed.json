@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "category": "daily",
+    "text": "الجو حر جدا",
+    "audio": "data/audio/1.wav",
+    "prediction": "الجو حر جدا",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 2,
+    "category": "daily",
+    "text": "الجو حر جدا",
+    "audio": "data/audio/2.wav",
+    "prediction": "الجو حر جدا",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 3,
+    "category": "transport",
+    "text": "عايز اروح المعادي",
+    "audio": "data/audio/3.wav",
+    "prediction": "عايزة روح المعادي",
+    "wer": 0.6666666666666666,
+    "accepted": true
+  },
+  {
+    "id": 4,
+    "category": "food",
+    "text": "نفسي اكل كشري",
+    "audio": "data/audio/4.wav",
+    "prediction": "نفسي أكل كشري",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 5,
+    "category": "shopping",
+    "text": "فيه خصومات النهاردة",
+    "audio": "data/audio/5.wav",
+    "prediction": "في خصومات النهاردة",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 6,
+    "category": "medical",
+    "text": "الدكتور موجود النهاردة",
+    "audio": "data/audio/6.wav",
+    "prediction": "الدكتور موجود النهاردة؟",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 7,
+    "category": "medical",
+    "text": "عايز احجز عند دكتور",
+    "audio": "data/audio/7.wav",
+    "prediction": "عايز أحكيز عن الدكتور؟",
+    "wer": 0.75,
+    "accepted": false
+  },
+  {
+    "id": 8,
+    "category": "shopping",
+    "text": "بكام التيشيرت ده",
+    "audio": "data/audio/8.wav",
+    "prediction": "بكم التشيرت ده؟",
+    "wer": 1.0,
+    "accepted": false
+  },
+  {
+    "id": 9,
+    "category": "transport",
+    "text": "المواصلات متأخرة",
+    "audio": "data/audio/9.wav",
+    "prediction": "المواصلات متأخرة",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 10,
+    "category": "medical",
+    "text": "عايز احجز عند دكتور",
+    "audio": "data/audio/10.wav",
+    "prediction": "عايز أهجز عن الدكتور",
+    "wer": 0.75,
+    "accepted": false
+  },
+  {
+    "id": 11,
+    "category": "food",
+    "text": "انا جعان",
+    "audio": "data/audio/11.wav",
+    "prediction": "أنا جعان",
+    "wer": 0.5,
+    "accepted": true
+  },
+  {
+    "id": 12,
+    "category": "food",
+    "text": "ممكن اطلب عصير",
+    "audio": "data/audio/12.wav",
+    "prediction": "ممكن أطلب عصير",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 13,
+    "category": "medical",
+    "text": "عايز احجز عند دكتور",
+    "audio": "data/audio/13.wav",
+    "prediction": "عايزة جزان دو دكتور",
+    "wer": 0.75,
+    "accepted": false
+  },
+  {
+    "id": 14,
+    "category": "daily",
+    "text": "انا تعبان شوية",
+    "audio": "data/audio/14.wav",
+    "prediction": "أنا تعبان شوية",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 15,
+    "category": "transport",
+    "text": "المترو زحمة النهاردة",
+    "audio": "data/audio/15.wav",
+    "prediction": "المترو زحمة النهاردة",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 16,
+    "category": "shopping",
+    "text": "المحل ده غالي",
+    "audio": "data/audio/16.wav",
+    "prediction": "المحل ده غالي",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 17,
+    "category": "daily",
+    "text": "لسه صاحي من النوم",
+    "audio": "data/audio/17.wav",
+    "prediction": "لسه صاحي من النوم",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 18,
+    "category": "food",
+    "text": "نفسي اكل كشري",
+    "audio": "data/audio/18.wav",
+    "prediction": "نفسي أكل كشري؟",
+    "wer": 0.6666666666666666,
+    "accepted": true
+  },
+  {
+    "id": 19,
+    "category": "shopping",
+    "text": "المحل ده غالي",
+    "audio": "data/audio/19.wav",
+    "prediction": "المحل ده غالي",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 20,
+    "category": "food",
+    "text": "عايز اطلب بيتزا",
+    "audio": "data/audio/20.wav",
+    "prediction": "أعزت لبيتزا",
+    "wer": 1.0,
+    "accepted": false
+  },
+  {
+    "id": 21,
+    "category": "shopping",
+    "text": "المحل ده غالي",
+    "audio": "data/audio/21.wav",
+    "prediction": "المحل ده غالي",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 22,
+    "category": "daily",
+    "text": "انا تعبان شوية",
+    "audio": "data/audio/22.wav",
+    "prediction": "أنا تعبان شوية",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 23,
+    "category": "medical",
+    "text": "عايز احجز عند دكتور",
+    "audio": "data/audio/23.wav",
+    "prediction": "أريد أن أحقق عند الدكتور",
+    "wer": 1.0,
+    "accepted": false
+  },
+  {
+    "id": 24,
+    "category": "daily",
+    "text": "لسه صاحي من النوم",
+    "audio": "data/audio/24.wav",
+    "prediction": "لسه صاحي من النوم",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 25,
+    "category": "transport",
+    "text": "المواصلات متأخرة",
+    "audio": "data/audio/25.wav",
+    "prediction": "إلى المواصلات متأخرة.",
+    "wer": 1.0,
+    "accepted": false
+  },
+  {
+    "id": 26,
+    "category": "transport",
+    "text": "عايز اروح المعادي",
+    "audio": "data/audio/26.wav",
+    "prediction": "عايز أروح المعادي",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 27,
+    "category": "transport",
+    "text": "المواصلات متأخرة",
+    "audio": "data/audio/27.wav",
+    "prediction": "المواصلات متأخرة",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "text": "هاتلي ساندوتش شاورما",
+    "audio": "data/audio/28.wav",
+    "prediction": "حتلسندوت شاورما",
+    "wer": 0.6666666666666666,
+    "accepted": true
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "text": "عايز اطلب بيتزا",
+    "audio": "data/audio/29.wav",
+    "prediction": "عايزة تلو بيتزة",
+    "wer": 1.0,
+    "accepted": false
+  },
+  {
+    "id": 30,
+    "category": "daily",
+    "text": "هتروح الشغل امتى",
+    "audio": "data/audio/30.wav",
+    "prediction": "هتروح الشغل إمتى؟",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 31,
+    "category": "food",
+    "text": "انا جعان",
+    "audio": "data/audio/31.wav",
+    "prediction": "أنجان",
+    "wer": 1.0,
+    "accepted": false
+  },
+  {
+    "id": 32,
+    "category": "daily",
+    "text": "هتروح الشغل امتى",
+    "audio": "data/audio/32.wav",
+    "prediction": "هتروح الشغل إمتى؟",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 33,
+    "category": "transport",
+    "text": "التاكسي غالي شوية",
+    "audio": "data/audio/33.wav",
+    "prediction": "التاكسي غالي شوية",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 34,
+    "category": "shopping",
+    "text": "المحل ده غالي",
+    "audio": "data/audio/34.wav",
+    "prediction": "المحل ده غالي",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 35,
+    "category": "daily",
+    "text": "هتروح الشغل امتى",
+    "audio": "data/audio/35.wav",
+    "prediction": "هتروح الشغل إمتى؟",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 36,
+    "category": "transport",
+    "text": "فين اقرب محطة",
+    "audio": "data/audio/36.wav",
+    "prediction": "فين أقرب محطة؟",
+    "wer": 0.6666666666666666,
+    "accepted": true
+  },
+  {
+    "id": 37,
+    "category": "transport",
+    "text": "فين اقرب محطة",
+    "audio": "data/audio/37.wav",
+    "prediction": "في أن أقرب محطة",
+    "wer": 1.0,
+    "accepted": false
+  },
+  {
+    "id": 38,
+    "category": "transport",
+    "text": "المواصلات متأخرة",
+    "audio": "data/audio/38.wav",
+    "prediction": "المواصلات متأخرة",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 39,
+    "category": "shopping",
+    "text": "المحل ده غالي",
+    "audio": "data/audio/39.wav",
+    "prediction": "المحل ده غالي",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 40,
+    "category": "food",
+    "text": "ممكن اطلب عصير",
+    "audio": "data/audio/40.wav",
+    "prediction": "ممكن أطلب عصير",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 41,
+    "category": "food",
+    "text": "انا جعان",
+    "audio": "data/audio/41.wav",
+    "prediction": "ومجددا",
+    "wer": 1.0,
+    "accepted": false
+  },
+  {
+    "id": 42,
+    "category": "daily",
+    "text": "عامل ايه النهاردة",
+    "audio": "data/audio/42.wav",
+    "prediction": "عامل ايه النهاردة؟",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 43,
+    "category": "food",
+    "text": "عايز اطلب بيتزا",
+    "audio": "data/audio/43.wav",
+    "prediction": "عايزة لبيتزا",
+    "wer": 1.0,
+    "accepted": false
+  },
+  {
+    "id": 44,
+    "category": "medical",
+    "text": "الدكتور موجود النهاردة",
+    "audio": "data/audio/44.wav",
+    "prediction": "الدكتور موغود النهاردة",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 45,
+    "category": "medical",
+    "text": "الدكتور موجود النهاردة",
+    "audio": "data/audio/45.wav",
+    "prediction": "الدكتور موجود النهاردة",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 46,
+    "category": "food",
+    "text": "هاتلي ساندوتش شاورما",
+    "audio": "data/audio/46.wav",
+    "prediction": "هتليسندوتش شاورما",
+    "wer": 0.6666666666666666,
+    "accepted": true
+  },
+  {
+    "id": 47,
+    "category": "medical",
+    "text": "عندي صداع جامد",
+    "audio": "data/audio/47.wav",
+    "prediction": "عندي صداع جامد",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 48,
+    "category": "shopping",
+    "text": "عايز اشتري جزمة",
+    "audio": "data/audio/48.wav",
+    "prediction": "عايز اشتري جزم",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  },
+  {
+    "id": 49,
+    "category": "medical",
+    "text": "بطني وجعاني",
+    "audio": "data/audio/49.wav",
+    "prediction": "بطني وجعاني",
+    "wer": 0.0,
+    "accepted": true
+  },
+  {
+    "id": 50,
+    "category": "food",
+    "text": "عايز اطلب بيتزا",
+    "audio": "data/audio/50.wav",
+    "prediction": "عايز أطلب بيتزا",
+    "wer": 0.3333333333333333,
+    "accepted": true
+  }
+]
