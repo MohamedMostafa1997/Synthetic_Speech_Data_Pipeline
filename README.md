@@ -69,7 +69,7 @@ SSDP/
 │   └── utils.py
 │
 ├── review_app.py
-├── main.py
+├── run_pipeline.py
 ├── requirements.txt
 ├── README.md
 └── .env (should you add it) 
@@ -312,7 +312,7 @@ Potential future enhancements:
 
 ## Requirements
 
-* Python 3.10+
+* Python 3.11+
 * FFmpeg installed and available in PATH
 
 Verify FFmpeg installation:
@@ -346,7 +346,7 @@ ELEVENLABS_API_KEY=YOUR_API_KEY
 Run the full pipeline:
 
 ```bash
-python main.py
+python run_pipeline.py
 ```
 
 Pipeline stages:
